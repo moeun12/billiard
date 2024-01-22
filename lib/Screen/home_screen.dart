@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:project/Screen/community/comunity_home.dart';
-import 'package:project/Screen/game/game_home.dart';
-import 'package:project/Screen/starting_screen/device_connet.dart';
-import 'package:project/layout/starting_layout.dart';
-import 'package:project/Screen/starting_screen/login.dart';
+import 'package:billiard/screen/community/comunity_home.dart';
+import 'package:billiard/screen/game/game_home.dart';
+import 'package:billiard/screen/starting_screen/device_connet.dart';
+import 'package:billiard/layout/starting_layout.dart';
+import 'package:billiard/screen/starting_screen/login.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

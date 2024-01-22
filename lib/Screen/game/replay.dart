@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project/Screen/game/game_home.dart';
-import 'package:project/layout/play_layout.dart';
+import 'package:billiard/Screen/game/game_home.dart';
+import 'package:billiard/layout/play_layout.dart';
 
 class Replay extends StatelessWidget {
   const Replay({super.key});

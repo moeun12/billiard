@@ -1,4 +1,4 @@
-# project
+# billiard
 
 A new Flutter project.
 

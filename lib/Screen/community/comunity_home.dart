@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project/layout/cummunity_layout.dart';
+import 'package:billiard/layout/cummunity_layout.dart';
 
 class CommunityHome extends StatelessWidget {
   const CommunityHome({super.key});

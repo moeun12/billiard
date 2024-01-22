@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:project/Screen/game/game_play.dart';
-import 'package:project/Screen/game/trial_play.dart';
-import 'package:project/layout/game_layout.dart';
+import 'package:billiard/Screen/game/game_play.dart';
+import 'package:billiard/Screen/game/trial_play.dart';
+import 'package:billiard/layout/game_layout.dart';
 
 class GameHome extends StatelessWidget {
   const GameHome({super.key});

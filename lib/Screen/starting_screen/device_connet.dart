@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project/Screen/game/game_home.dart';
-import 'package:project/layout/starting_layout.dart';
+import 'package:billiard/Screen/game/game_home.dart';
+import 'package:billiard/layout/starting_layout.dart';
 
 class DeviceConnect extends StatelessWidget {
   const DeviceConnect({super.key});

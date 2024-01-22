@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:project/Screen/home_screen.dart';
-import 'package:project/Screen/starting_screen/login.dart';
-import 'package:project/Screen/starting_screen/signin.dart';
+import 'package:billiard/screen/home_screen.dart';
+import 'package:billiard/screen/starting_screen/login.dart';
+import 'package:billiard/screen/starting_screen/signin.dart';
 
 void main() {
   runApp(

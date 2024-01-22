@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:project/Screen/starting_screen/signin.dart';
-import 'package:project/layout/starting_layout.dart';
+import 'package:billiard/Screen/starting_screen/signin.dart';
+import 'package:billiard/layout/starting_layout.dart';
 
 class Login extends StatefulWidget {
   @override
